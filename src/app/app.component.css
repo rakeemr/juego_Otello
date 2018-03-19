@@ -1,0 +1,11 @@
+table.table-bordered{
+    border:1px solid black;
+    margin-top:25px;
+    margin-left:250px;
+}
+table.table-bordered > thead > tr > th{
+    border:1px solid black;
+}
+table.table-bordered > tbody > tr > td{
+    border:5px solid black;
+}
